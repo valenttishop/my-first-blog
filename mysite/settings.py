@@ -25,7 +25,7 @@ SECRET_KEY = '6qugcebakqzeif073!784^18lsif-(2o&k_e(c5&g!6vaa(4l='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<tipha>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'valenttishop.pythonanywhere.com']
 
 
 # Application definition
